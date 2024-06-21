@@ -1,5 +1,4 @@
 # Setting-up - Epitech project
-# setting_up
 
 ## Introduction
 
