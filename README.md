@@ -17,7 +17,7 @@ Follow these steps to set up `setting_up`:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/setting_up.git
+    git clone https://github.com/jeremyarmijo/Setting_up.git
     ```
 
 2. **Navigate to the Project Directory:**
